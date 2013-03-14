@@ -2,7 +2,8 @@
 	"name": "study",
 	"version": "0.0.1",
 	"dependencies": {
-		
+		"requirejs": "git://github.com/jrburke/requirejs.git#~2.1.5",
+		"requirejs-css":"git://github.com/leoxie/requirejs-css.git#~0.0.1",
 		"jquery": "~1.9.1"
 	},
 	"ignore": [
